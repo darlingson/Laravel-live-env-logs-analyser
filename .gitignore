@@ -1,0 +1,30 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the `go build` and `go install` commands
+/build/
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependency directories (vendor is optional if you use vendoring)
+vendor/
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Go module cache
+go.sum
